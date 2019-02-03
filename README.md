@@ -1,7 +1,9 @@
-# exploring_flutter
+# Exploring Flutter
 
 My Flutter Adventures!
 
+## Special Thanks to [WhatsUpCoder](https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w)
+- [WhatsUpCoder](https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w) makes a lot of awesome Flutter tutorials
 ## Getting Started
 
 This project is a starting point for a Flutter application.
