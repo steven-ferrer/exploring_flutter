@@ -9,14 +9,15 @@ import 'package:flutter/material.dart';
 // import './horizontal_listview_demo.dart' show HorizontalListViewDemo;
 // import './navigate_to_new_screen_demo.dart' show NavigateToNewScreenDemo;
 // import './navigation_drawer_demo.dart' show NavigationDrawerDemo;
-import './custom_fonts_demo.dart' show CustomFontsDemo;
+// import './custom_fonts_demo.dart' show CustomFontsDemo;
+import './gridview_demo.dart' show GridViewDemo;
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return CustomFontsDemo();
+    return GridViewDemo();
   }
 }
 
