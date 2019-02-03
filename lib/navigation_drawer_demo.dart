@@ -15,7 +15,7 @@ class NavigationDrawerDemo extends StatelessWidget {
 }
 
 class MainScreen extends StatelessWidget {
-  GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey();
+  final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey();
 
   @override
   Widget build(BuildContext context) {
